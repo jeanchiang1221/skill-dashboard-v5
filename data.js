@@ -1525,7 +1525,7 @@ window.DASHBOARD_DATA = {
               text: "語法對，內容不一定對",
               desc: "逗號引號都在，值寫錯照樣讓儀表板顯示錯的東西。",
               done: false,
-            },
+
             {
               text: "check-data.js",
               desc: "第二層檢查，驗的是資料的結構，不是語法。",
